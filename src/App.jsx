@@ -151,7 +151,7 @@ function App() {
   {/* <div className="absolute top-0 z-[-2] h-screen w-screen"></div> */}
       <header className="bg-gray-900 text-white py-4 px-6 flex justify-between items-center">
         <span href="#" className="text-xl font-bold" prefetch={false}>
-          Webcam App
+          CoinCounter
         </span>
         <nav>
           <ul className="flex space-x-4">
@@ -231,7 +231,7 @@ function App() {
       </main>
 
       <footer className="bg-gray-900 text-white py-4 px-6 flex justify-start items-center">
-        <p className="container">Devloped with ❤️ by Saumilya</p>
+        <p className="container">Developed with ❤️ by Saumilya</p>
         <nav>
           🐿️ 
         </nav>
